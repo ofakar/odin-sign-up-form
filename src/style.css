@@ -123,18 +123,18 @@ button {
   flex-direction: column;
   background-color: #f9fafb;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  padding-inline-start: 40px;
   gap: 40px;
 }
 
 .right > * {
   flex: 1;
+  padding-inline-start: 40px;
 }
 
 .form-container {
   background-color: #fff;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
-  padding: 0.5rem;
+  padding: 1.3rem 2.5rem;
 }
 
 .form {
